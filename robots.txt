@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bracee.netlify.app/sitemap.xml
